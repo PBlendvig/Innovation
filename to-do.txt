@@ -1,6 +1,6 @@
-Image resizing for different size monitors
+DONE Image resizing for different size monitors
 
-Ablee to click on the different locations for broader information
+DONE Able to click on the different locations for broader information
 
 users can leave a Comment
 
